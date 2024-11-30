@@ -1,0 +1,101 @@
+,city,state_name,Latitude,Longitude,Suggestion Result,Model Confidence,Model Prediction
+12442,Edmonston,Maryland,38.9502,-76.9332,1,0.9531280424917211,Industries Present
+5571,El Rio,California,34.2453,-119.1568,1,0.948406671566842,Industries Present
+2413,North Bay Shore,New York,40.7602,-73.2617,1,0.9456365257069742,Industries Present
+766,Brentwood,New York,40.7839,-73.2522,1,0.9454426713340333,Industries Present
+4497,Valley Cottage,New York,41.1162,-73.9433,1,0.9453667748775658,Industries Present
+610,Bellflower,California,33.888,-118.1271,1,0.9439004146511,Industries Present
+2591,East Riverdale,Maryland,38.96,-76.9109,1,0.9438842827750928,Industries Present
+5126,Riverdale Park,Maryland,38.9643,-76.9266,1,0.9434595789629691,Industries Present
+237,Grand Prairie,Texas,32.6871,-97.0208,1,0.9430620764619198,Industries Present
+2828,Cherryland,California,37.6792,-122.1038,1,0.9430234709606218,Industries Present
+2166,Langley Park,Maryland,38.9897,-76.9808,1,0.9429382629429085,Industries Present
+455,Norwalk,California,33.9069,-118.0829,1,0.9415638272284617,Industries Present
+7835,Bardonia,New York,41.1128,-73.9822,1,0.9410803389395181,Industries Present
+2056,West Carson,California,33.8229,-118.2931,1,0.9408985228428575,Industries Present
+407,Gilroy,California,37.0046,-121.5854,1,0.9406238250082369,Industries Present
+2694,Artesia,California,33.8676,-118.0805,1,0.9405919063669909,Industries Present
+1268,Chillum,Maryland,38.9666,-76.9791,1,0.9403990338785126,Industries Present
+586,Lakewood,California,33.8471,-118.1222,1,0.9399390754876896,Industries Present
+23928,Industry,California,34.0175,-117.9267,1,0.9395686250343535,Industries Present
+17270,North Brentwood,Maryland,38.945,-76.951,1,0.9382813058076174,Industries Present
+280,Hayward,California,37.6328,-122.0766,1,0.9380890336151609,Industries Present
+1085,Linden,New Jersey,40.6251,-74.2383,1,0.9377637072332244,Industries Present
+3078,Roselle Park,New Jersey,40.6653,-74.2666,1,0.9376089411840612,Industries Present
+975,Azusa,California,34.1386,-117.9124,1,0.9374393594458716,Industries Present
+5102,East Foothills,California,37.3826,-121.8138,1,0.9373607400875849,Industries Present
+4970,Sunnyvale,Texas,32.7974,-96.5577,1,0.9369180059098897,Industries Present
+642,Pittsburg,California,38.0182,-121.8965,1,0.9367973808913294,Industries Present
+521,San Leandro,California,37.7074,-122.1599,1,0.9360247292485974,Industries Present
+3458,El Sobrante,California,33.8724,-117.4624,1,0.9359851186181894,Industries Present
+29,San Jose,California,37.3012,-121.848,1,0.9358946163437293,Industries Present
+5548,Watchung,New Jersey,40.6431,-74.4391,1,0.9357750838871475,Industries Present
+102,Oakland,California,37.7904,-122.2166,1,0.9357374561950934,Industries Present
+2087,American Canyon,California,38.1796,-122.2583,1,0.9357228483560901,Industries Present
+2162,Hyattsville,Maryland,38.9613,-76.9548,1,0.9354299498388362,Industries Present
+5002,Dunellen,New Jersey,40.5903,-74.4656,1,0.9350184787348489,Industries Present
+1929,Ashland,California,37.6942,-122.1159,1,0.935006304297243,Industries Present
+2024,Roselle,New Jersey,40.6527,-74.2599,1,0.9348407763680632,Industries Present
+965,Cypress,California,33.8171,-118.0386,1,0.9344227106763832,Industries Present
+125,Anaheim,California,33.839,-117.8574,1,0.9340733514257361,Industries Present
+4289,South Amboy,New Jersey,40.4852,-74.2831,1,0.9340674375848892,Industries Present
+1512,San Lorenzo,California,37.6733,-122.1332,1,0.9339422666135262,Industries Present
+13180,Fifth Street,Texas,29.5982,-95.552,1,0.9339264425104148,Industries Present
+620,Alameda,California,37.7668,-122.267,1,0.9338909061086558,Industries Present
+3450,Alum Rock,California,37.3694,-121.8238,1,0.9338737113977686,Industries Present
+1784,Fairland,Maryland,39.0803,-76.9527,1,0.9337701071999921,Industries Present
+2814,La Palma,California,33.8504,-118.0407,1,0.9335685620070742,Industries Present
+13080,Lakeside,California,35.2347,-119.0829,1,0.9335213852251869,Industries Present
+3860,Westphalia,Maryland,38.8356,-76.8298,1,0.9333283736909116,Industries Present
+3363,San Marino,California,34.1224,-118.1132,1,0.9332065727929808,Industries Present
+425,West Covina,California,34.0555,-117.9113,1,0.9330570788177198,Industries Present
+972,Cerritos,California,33.8678,-118.0686,1,0.9330368901822078,Industries Present
+316,Fullerton,California,33.8841,-117.9279,1,0.9329093806382784,Industries Present
+6055,La Habra Heights,California,33.9603,-117.951,1,0.9325441793371112,Industries Present
+3722,Fairview,California,37.6758,-122.0473,1,0.9325161306747581,Industries Present
+284,Corona,California,33.8616,-117.5649,1,0.9324263018488735,Industries Present
+3310,Northlake,Illinois,41.9142,-87.9054,1,0.9324052035409719,Industries Present
+8433,South Hempstead,New York,40.6814,-73.6233,1,0.9323965136172264,Industries Present
+3843,Citrus,California,34.116,-117.8891,1,0.9323407645579584,Industries Present
+4198,Bladensburg,Maryland,38.9424,-76.9264,1,0.9323009764672986,Industries Present
+1438,Lawndale,California,33.8884,-118.3531,1,0.9319947690606796,Industries Present
+2704,North Arlington,New Jersey,40.7874,-74.1273,1,0.9318871827426941,Industries Present
+2566,Woodmere,New York,40.6375,-73.7219,1,0.9317501776179196,Industries Present
+2793,Glenmont,Maryland,39.0698,-77.0467,1,0.9317480383605999,Industries Present
+2084,Valinda,California,34.04,-117.93,1,0.9316862500584064,Industries Present
+4278,Riverside,Illinois,41.831,-87.8169,1,0.9315916109156724,Industries Present
+4915,Glen Ridge,New Jersey,40.8041,-74.2043,1,0.931506921780594,Industries Present
+6689,Palmetto,Georgia,33.531,-84.6678,1,0.9314984555386081,Industries Present
+10002,Hopelawn,New Jersey,40.5286,-74.2936,1,0.9314611557343483,Industries Present
+548,Whittier,California,33.9678,-118.0188,1,0.931237953992347,Industries Present
+537,State College,Pennsylvania,40.7909,-77.8567,1,0.9311909056008091,Industries Present
+4810,Alondra Park,California,33.8885,-118.335,1,0.9311393656253353,Industries Present
+436,Bloomington,Indiana,39.1637,-86.5257,1,0.9310748862797368,Industries Present
+878,Arcadia,California,34.1342,-118.0373,1,0.9310687139364658,Industries Present
+7140,National Harbor,Maryland,38.7876,-77.0113,1,0.9310027130613363,Industries Present
+8198,Andrews AFB,Maryland,38.8054,-76.8744,1,0.9309491226762632,Industries Present
+6251,Vauxhall,New Jersey,40.7174,-74.2838,1,0.9308237267792188,Industries Present
+4822,Broadview,Illinois,41.8583,-87.8562,1,0.9308227572696247,Industries Present
+1685,South Pasadena,California,34.1103,-118.1573,1,0.930795091308006,Industries Present
+390,Seaside,California,36.6224,-121.8199,1,0.9306337010727107,Industries Present
+953,Covina,California,34.0903,-117.8818,1,0.9306165461532987,Industries Present
+4465,Bogota,New Jersey,40.8751,-74.0293,1,0.9305579498082225,Industries Present
+4067,East Whittier,California,33.9244,-117.9887,1,0.9305369495496151,Industries Present
+5105,North Riverside,Illinois,41.8461,-87.8263,1,0.9304883071782706,Industries Present
+1208,La Presa,California,32.711,-117.0027,1,0.9303437958149292,Industries Present
+892,Perth Amboy,New Jersey,40.5202,-74.2724,1,0.9303372366932237,Industries Present
+572,Buena Park,California,33.8572,-118.0046,1,0.9302028717044967,Industries Present
+448,Jurupa Valley,California,34.001,-117.4706,1,0.930177497793778,Industries Present
+2994,Colesville,Maryland,39.073,-77.001,1,0.9301458912499565,Industries Present
+585,Silver Spring,Maryland,39.0028,-77.0207,1,0.9300830732722399,Industries Present
+902,Plainfield,New Jersey,40.6154,-74.4157,1,0.9298709121261487,Industries Present
+262,Elk Grove,California,38.4161,-121.3842,1,0.9298360759487523,Industries Present
+2532,Bryn Mawr-Skyway,Washington,47.4949,-122.241,1,0.9298246083923969,Industries Present
+4764,Four Corners,Maryland,39.0235,-77.0102,1,0.9297820646927032,Industries Present
+850,South Whittier,California,33.9336,-118.0312,1,0.9296237464583476,Industries Present
+2014,North Plainfield,New Jersey,40.6209,-74.4386,1,0.9295253352850564,Industries Present
+9100,East Norwich,New York,40.8495,-73.5288,1,0.929501292585002,Industries Present
+614,Upland,California,34.1178,-117.6604,1,0.9294195781327814,Industries Present
+3236,Ridgefield Park,New Jersey,40.8543,-74.0201,1,0.9293683182522674,Industries Present
+2527,Iselin,New Jersey,40.5697,-74.3172,1,0.9291148302328236,Industries Present
+4131,Charter Oak,California,34.1025,-117.8564,1,0.9289442949205744,Industries Present

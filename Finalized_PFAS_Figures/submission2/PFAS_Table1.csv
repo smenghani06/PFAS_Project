@@ -1,0 +1,10 @@
+Table 1: Measuring Sparsity with Aggregated Proximal Site Statistics,,
+Statistical Measure,Testing Sites,Industry Sites
+Total,3006,143246
+Mean,0.0975,4.64
+Median,0,1
+Variance,0.306,247
+Q1,0,0
+Q3,0,3
+Min,0,0
+Max,22,662
