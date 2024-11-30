@@ -1,5 +1,5 @@
 # PFAS_Project
-#### This project involves the utilization of Random Forest Classifiers to assess the relationship between the presence of PFAS-handling industries and surrounding socioeconomic conditions in order to identify areas with high vulnerability to PFAS exposure and prioritize future testing accordingly. 
+#### This project involves the utilization of Random Forest Classifiers to assess the relationship between the presence of PFAS-handling industries and surrounding socioeconomic conditions in major cities in order to identify areas with high vulnerability to PFAS exposure and prioritize future testing accordingly. 
 #### Files were transferred from a collaborative google drive folder
 
 # File Directory
